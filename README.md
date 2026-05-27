@@ -6,6 +6,8 @@ Projeto de uma landing page inspirada no jogo *Marvel's Spider-Man 2*, desenvolv
 
 ## 📸 Preview do Projeto
 
+### 💻 Desktop
+
 <p align="center">
   <img src="img/preview-1.png" width="900"/>
 </p>
@@ -16,12 +18,30 @@ Projeto de uma landing page inspirada no jogo *Marvel's Spider-Man 2*, desenvolv
 
 ---
 
+## 📱 Mobile
+
+<p align="center">
+  <img src="img/preview-3.png" width="300"/>
+  <img src="img/preview-4.png" width="300"/>
+</p>
+
+---
+
+## 📲 Tablet
+
+<p align="center">
+  <img src="img/preview-5.png" width="500"/>
+  <img src="img/preview-6.png" width="500"/>
+</p>
+
+---
+
 ## 🚀 Tecnologias utilizadas
 
 * HTML5
 * CSS3
 * JavaScript (Vanilla)
-* Swiper.js (carrossel de vídeos)
+* Swiper.js
 * Google Fonts
 
 ---
@@ -29,11 +49,11 @@ Projeto de uma landing page inspirada no jogo *Marvel's Spider-Man 2*, desenvolv
 ## 🎨 Funcionalidades
 
 * Layout moderno e responsivo
+* Adaptação para desktop, tablet e mobile
 * Seção hero com destaque do produto
 * Carrossel interativo de vídeos com Swiper
-* Animações em CSS (fade e troca de background)
+* Animações em CSS
 * Navegação simples e intuitiva
-* Estrutura organizada por pastas
 
 ---
 
@@ -50,7 +70,11 @@ portifolio-01/
 │
 ├── img/
 │   ├── preview-1.png
-│   └── preview-2.png
+│   ├── preview-2.png
+│   ├── preview-3.png
+│   ├── preview-4.png
+│   ├── preview-5.png
+│   └── preview-6.png
 │
 ├── html/
 │   └── index.html
@@ -62,39 +86,29 @@ portifolio-01/
 
 ## ▶️ Como rodar o projeto
 
-Clone o repositório:
-
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Lmac-og/Front-end-Homem-Haranha-2.git
+cd Front-end-Homem-Haranha-2
 ```
 
-Acesse a pasta:
-
-```bash
-cd seu-repositorio
-```
-
-Abra o projeto:
+Abra:
 
 ```bash
 html/index.html
 ```
 
-Ou simplesmente abra no navegador.
-
 ---
 
 ## 💡 Objetivo do projeto
 
-Este projeto foi desenvolvido com foco em prática de front-end, explorando:
+Projeto desenvolvido para prática de front-end com foco em:
 
 * Interfaces modernas
 * Responsividade
-* Organização de código
 * Experiência do usuário (UI/UX)
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Leonardo henrique Maciel ferreira 🚀
+Desenvolvido por você 🚀
