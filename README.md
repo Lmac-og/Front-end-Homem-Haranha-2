@@ -21,8 +21,8 @@ Projeto de uma landing page inspirada no jogo *Marvel's Spider-Man 2*, desenvolv
 ### 📱 Mobile
 
 <p align="center">
-  <img src="img/preview-3.png" width="300"/>
-  <img src="img/preview-4.png" width="300"/>
+  <img src="img/preview-3.png" width="900"/>
+  <img src="img/preview-4.png" width="900"/>
 </p>
 
 ---
@@ -30,8 +30,8 @@ Projeto de uma landing page inspirada no jogo *Marvel's Spider-Man 2*, desenvolv
 ### 📲 Tablet
 
 <p align="center">
-  <img src="img/preview-5.png" width="500"/>
-  <img src="img/preview-6.png" width="500"/>
+  <img src="img/preview-5.png" width="900"/>
+  <img src="img/preview-6.png" width="900"/>
 </p>
 
 ---
