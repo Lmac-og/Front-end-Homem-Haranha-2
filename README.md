@@ -18,7 +18,7 @@ Projeto de uma landing page inspirada no jogo *Marvel's Spider-Man 2*, desenvolv
 
 ---
 
-## 📱 Mobile
+### 📱 Mobile
 
 <p align="center">
   <img src="img/preview-3.png" width="300"/>
@@ -27,7 +27,7 @@ Projeto de uma landing page inspirada no jogo *Marvel's Spider-Man 2*, desenvolv
 
 ---
 
-## 📲 Tablet
+### 📲 Tablet
 
 <p align="center">
   <img src="img/preview-5.png" width="500"/>
@@ -41,7 +41,7 @@ Projeto de uma landing page inspirada no jogo *Marvel's Spider-Man 2*, desenvolv
 * HTML5
 * CSS3
 * JavaScript (Vanilla)
-* Swiper.js
+* Swiper.js (carrossel de vídeos)
 * Google Fonts
 
 ---
@@ -86,25 +86,35 @@ portifolio-01/
 
 ## ▶️ Como rodar o projeto
 
+Clone o repositório:
+
 ```bash
 git clone https://github.com/Lmac-og/Front-end-Homem-Haranha-2.git
+```
+
+Acesse a pasta:
+
+```bash
 cd Front-end-Homem-Haranha-2
 ```
 
-Abra:
+Abra o projeto:
 
 ```bash
 html/index.html
 ```
 
+Ou simplesmente abra no navegador.
+
 ---
 
 ## 💡 Objetivo do projeto
 
-Projeto desenvolvido para prática de front-end com foco em:
+Projeto desenvolvido para prática de front-end, explorando:
 
 * Interfaces modernas
 * Responsividade
+* Organização de código
 * Experiência do usuário (UI/UX)
 
 ---
